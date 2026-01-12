@@ -1,2 +1,3 @@
-# ToDoList-App
-CRUD tasks with local storage and basic UI components.
+Video demonstration:
+
+https://youtu.be/k7WB5XVA6uE
